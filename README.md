@@ -2,7 +2,7 @@
 
 MCMD is a collection of programs that implement simple routines for Monte Carlo (MC) and Molecular Dynamics (MD) simulations. The purpose of this repository is to only provide pedagogic implementations of molecular simulations in Fortran, Python and C++.
 
-> Note: Currently, only the Fortran section is complete and the implementations for Python and C++ are work in progress.
+> Note: Currently, only the Fortran section is complete and the implementations for Python and C++ are a "work in progress".
    
 
 ## TO DO
